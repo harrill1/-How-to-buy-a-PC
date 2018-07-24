@@ -31,11 +31,15 @@ Optional parts
 
 ### CPU
 
+The CPU is where the majority of processing for your computer is done. When it comes to choosing a CPU you need to think about what you will be using your computer for. If you plan to use intensive applications, you will want a higher processing speed than if you plan to mostly just browse the web. You also want to think about how much stuff you will run at once. Almost all CPUs these days are multi-core, which means they can delegate larger tasks to their different cores to boost preformance. If you plan on gaming, editing photos, videos or 3D models, you may want to get a CPU with a good amount of cores. However, overall processing speed is more important, as some applications cannot run without a strong enough processor.
+
 ### Graphics card
 
 The graphics card is what computes the things that appear on your screen. The better the graphics card, the more complex and detailed the images displayed can be. When it comes to choosing a graphics card, it is important to determine what you will be using your computer for. If you are just browsing websites, a high end graphics card probably isn't needed. However, if you plan on doing a lot of gaming or video editing, you may want to get a good graphics card.
 
 ### Motherboard
+
+The motherboard is basically the heart of your computer. It is where all the main components are connected to.When picking a motherboard, it is important that it is compatible with your case, as all of the ports on the motherboard stick out of the case and should be flush in order to prevent dust from accumulating quickly inside your computer. It is also important to make sure you have slots for what you want, like enough RAM slots, USB ports, or a NIC or sound card, if that is what you want. It is also important to see how your graphics card will attach to your motherboard, because in some situations a graphics card may be too big and block slots that you may need.
 
 ### RAM
 
