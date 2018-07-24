@@ -1,4 +1,4 @@
-# How to Build a PC
+# How to choose your parts for a computer
 
 Author: Hayden Harrill
 
